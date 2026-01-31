@@ -16,5 +16,5 @@ async function getMeme() {
 
 btn.addEventListener("click", getMeme);
 
-// Load meme on page open
+// Load first meme as soon as website opens
 getMeme();
