@@ -56,3 +56,11 @@ button:hover {
   font-weight: bold;
   margin-bottom: 10px;
 }
+
+.meme-box img {
+  transition: transform 0.3s ease;
+}
+
+.meme-box img:hover {
+  transform: scale(1.05);
+}
