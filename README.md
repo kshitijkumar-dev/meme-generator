@@ -1,4 +1,4 @@
-## ⚡ Meme Machine-Instant Random Meme Generator Web App
+## ⚡Memeflix-Instant Random Meme Generator Web App
 Meme Machine is a simple web application that displays random memes using a public API.  
 This is my first frontend project, built to practice core web development concepts.
 I used AI tools as a learning assistant while building this project, but i tried to implement and understand everything myself as much as i could.
